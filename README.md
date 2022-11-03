@@ -12,7 +12,7 @@ I am looking forward to developing my practical experience in Data Science and A
 
 Skills: Python | SQL |  R | Tableau | 
 
-- 🔭 I’m currently working on developing my Real Estate Marketing company 
+- 🔭 I’m currently working on developing my Real Estate Marketing Company 
 - 🌱 I’m currently learning Natural Language Processing 
 
 
