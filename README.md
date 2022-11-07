@@ -10,7 +10,7 @@ In addition to my Data Science Internship, I've been working as Finance Intern a
 
 I am looking forward to developing my practical experience in Data Science and Analytics fields by interning at Tech companies or Hedge Funds.
 
-Skills: Python | SQL |  R | Tableau | 
+Skills: Python | SQL |  R | Tableau | Statistics
 
 - 🔭 I’m currently working on developing my Real Estate Marketing Company 
 - 🌱 I’m currently learning Natural Language Processing 
