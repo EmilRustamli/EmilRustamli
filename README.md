@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Emil Rustamli
-#### I'm Sophomore Student at Minerva University 🇺🇸 🇰🇷 🇹🇼🇮🇳 🇦🇷 🇬🇧 🇩🇪 
+#### I'm Junior Student at Minerva University 🇺🇸 🇰🇷 🇹🇼🇮🇳 🇦🇷 🇬🇧 🇩🇪 
 At Minerva, while mastering Data Science and Statistics & Economics majors, I am traveling to the 7 global tech hubs, to work on local problems with international partner companies in addition to discovering new cultures and becoming a global citizen.
 
 In Taiwan, I am researching the behavior of social media users – as Data Science Intern at the Taiwan Digital Diplomacy Association in partnership with Meta Taiwan – talking about the Ukraine-Russia war to establish data-driven relations between Ukrainian social media users' behaviors and Ukraine's victory in the information war. The analysis of Twitter and Facebook posts via Natural Language Processing serves us to establish a handbook for Taiwanese Politicians to be more efficient Social Media Users and reach a global audience about the Taiwanese realities.
